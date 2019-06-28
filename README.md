@@ -2,38 +2,57 @@
 
 ## Mục lục
 
-### [1. What is network](#what is network)
-### [2. Advantages and disadvantages of network](#advantages and disadvantages of network)
-### [3. Common physical component of a network](#common physical component of a network)
-### [4. Interpreting a network diagram](#interpreting a network diagram)
-### [5. Compare physical topology and logical topology](#compare physical topology and logical topology)
-### [6. Describe the network topologies](#describe the network topologies)
-### [7. Describe the function and operation of hub, switch and router](#describe the function and operation of hub, switch and router)
-### [8. Describe the function of firewall and gateway](#describe the function of firewall and gateway)
-### [9. Describe the function and operation of layer2 switching, layer3 switching and router](#describe the function and operation of layer 2 switching, layer 3 switching and router)
-### [10. Describe the function of LAN, MAN, WAN networks](#describe the function of LAN, MAN, WAN networks)
-### [11. Internet definition](#internet definition)
-### [12. Indentify the layers of the OSI Model](#indentify the layers of the OSI model)
-### [13. Indentify the layers and Deep dive TCP/IP Stack](#indentify the layers and deep dive TCP/IP stack)
-### [14. Compare and contrast OSI and TCP/IP](#compare and contrast OSI and TCP/IP)
-### [15. Compare and contrast TCP and UDP protocols](#compare and contrast TCP and UDP protocols)
-### [16. What is DNS , Telnet, DHCP, HTTP, FTP ?](#what is DNS , Telnet, DHCP, HTTP, FTP ?)
-### [17. What is IPv4 ? Describe IPv4 Address Classes](#what is IPv4 ? Describe IPv4 Address Classes)
-### [18. Network Architecture : definition, compare peer to peer and client to server](#network architecture : definition, compare peer to peer and client to server)
+### [1. What is network](#whatisnetwork)
 
-###[19. Compare and contrast IPv4 address types: Unicast Broadcast Multicast](#compare and contrast IPv4 address types: Unicast Broadcast Multicast)
-###[20. Describe the need for private IPv4 addressing. Compare Public Network and Private Network](#describe the need for private IPv4 addressing. Compare Public Network and Private Network)
-### [21. What happens when you type in a url in the brower?](#what happens when you type in a url in the brower?)
+### [2. Advantages and disadvantages of network](#advantagesanddisadvantagesofnetwork)
+
+### [3. Common physical component of a network](#commonphysicalcomponentofanetwork)
+
+### [4. Interpreting a network diagram](#interpretinganetworkdiagram)
+
+### [5. Compare physical topology and logical topology](#comparephysicaltopologyandlogicaltopology)
+
+### [6. Describe the network topologies](#describethenetworktopologies)
+
+### [7. Describe the function and operation of hub, switch and router](#describethefunctionandoperationofhub,switchandrouter)
+
+### [8. Describe the function of firewall and gateway](#describethefunctionoffirewallandgateway)
+
+### [9. Describe the function and operation of layer2 switching, layer3 switching and router](#describethefunctionandoperationoflayer2switching,layer3switchingandrouter)
+
+### [10. Describe the function of LAN, MAN, WAN networks](#describethefunctionofLAN,MAN,WANnetworks)
+
+### [11. Internet definition](#internetdefinition)
+
+### [12. Indentify the layers of the OSI Model](#indentifythelayersoftheOSI model)
+
+### [13. Indentify the layers and Deep dive TCP/IP Stack](#indentifythelayersanddeepdiveTCP/IP stack)
+
+### [14. Compare and contrast OSI and TCP/IP](#compareand ontrastOSIandTCP/IP)
+
+### [15. Compare and contrast TCP and UDP protocols](#compareandcontrastTCPandUDPprotocols)
+
+### [16. What is DNS , Telnet, DHCP, HTTP, FTP ?](#whatisDNS,Telnet,DHCP,HTTP,FTP?)
+
+### [17. What is IPv4 ? Describe IPv4 Address Classes](#whatisIPv4?DescribeIPv4AddressClasses)
+
+### [18. Network Architecture: definition, compare peer to peer and client to server](#networkarchitecture:definition,comparepeertopeerandclienttoserver)
+
+###[19. Compare and contrast IPv4 address types: Unicast Broadcast Multicast](#compareandcontrastIPv4addresstypes:UnicastBroadcastMulticast)
+
+###[20. Describe the need for private IPv4 addressing. Compare Public Network and Private Network](#describetheneedforprivateIPv4addressing.ComparePublicNetworkandPrivateNetwork)
+
+### [21. What happens when you type in a url in the brower?](#whathappenswhenyoutypeinaurlinthebrower?)
 
 ---
 
-<a name="what is network"></a>
+<a name="whatisnetwork"></a>
 
 ### 1. What is network
 
 Một mạng gồm hay hay nhiều máy tính hoặc các thiết bị được kết nối với nhau có thể giao tiếp bằng một số tiêu chuẩn chung (được gọi là giao thức) nhằm trao đổi tài nguyên và dịch vụ.
 
-<a name="advantages and disadvantages of network"></a>
+<a name="advantagesanddisadvantagesofnetwork"></a>
 
 ### 2. Advantages and disadvantages of network
 
@@ -49,7 +68,7 @@ Một mạng gồm hay hay nhiều máy tính hoặc các thiết bị được 
  - Cần người có kinh nghiệm khi sửa chữa, thay thế
  - Nguy cơ mất an toàn khi kết nối mạng (virus, mất cắp thông tin, ...)
 
-<a name="common physical component of a network"></a>
+<a name="commonphysicalcomponentofanetwork"></a>
 
 ### 3. Common physical component of a network
 
@@ -60,13 +79,13 @@ Những thành phần vật lý của một mạng:
 - Cable: cáp mạng
 - Network Interface Card (NIC): card mạng
 
-<a name="interpreting a network diagram"></a>
+<a name="interpretinganetworkdiagram"></a>
 
 ### 4. Interpreting a network diagram
 
 >updating
 
-<a name="compare physical topology and logical topology"></a>
+<a name="comparephysicaltopologyandlogicaltopology"></a>
 
 ### 5. Compare physical topology and logical topology
 
@@ -74,7 +93,7 @@ Những thành phần vật lý của một mạng:
 
 - Cấu trúc liên kết logic: cấu trúc liên kết logic đề cập đến cách xử lý dữ liệu trong mạng bất kể cấu trúc liên kết vật lý của nó. Cấu trúc liên kết logic của mạng hoạt động ở lớp 2 (Liên kết dữ liệu).
 
-<a name="describe the network topologies"></a>
+<a name="describethenetworktopologies"></a>
 
 ### 6. Describe the network topologies
 
@@ -120,91 +139,91 @@ Các cấu trúc liên kết mạng vật lý và logic của một mạng khôn
 
 ![Ảnh](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/StarNetwork.svg/527px-StarNetwork.svg.png)
 
-<a name="describe the function and operation of hub, switch and router"></a>
+<a name="describethefunctionandoperationofhub,switchandrouter"></a>
 
 ### 7. Describe the function and operation of hub, switch and router
 
 >updating
 
-<a name="describe the function of firewall and gateway"></a>
+<a name="describethefunctionoffirewallandgateway"></a>
 
 ### 8. Describe the function of firewall and gateway
 
 >updating
 
-<a name="describe the function and operation of layer 2 switching, layer 3 switching and router"></a>
+<a name="describethefunctionandoperationoflayer2switching,layer3switchingandrouter"></a>
 
 ### 9. Describe the function and operation of layer2 switching, layer3 switching and router
 
 >updating
 
-<a name="describe the function of LAN, MAN, WAN networks"></a>
+<a name="describethefunctionofLAN,MAN,WANnetworks"></a>
 
 ### 10. Describe the function of LAN, MAN, WAN networks
 
 >updating
 
-<a name="internet definition"></a>
+<a name="internetdefinition"></a>
 
 ### 11. Internet definition
 
 >updating
 
-<a name="indentify the layers of the OSI model"></a>
+<a name="indentifythelayersoftheOSI model"></a>
 
 ### 12. Indentify the layers of the OSI model
 
 >updating
 
-<a name="indentify the layers and deep dive TCP/IP stack"></a>
+<a name="indentifythelayersanddeepdiveTCP/IP stack"></a>
 
 ### 13. Indentify the layers and deep dive TCP/IP stack
 
 >updating
 
-<a name="compare and contrast OSI and TCP/IP"></a>
+<a name="compareand ontrastOSIandTCP/IP"></a>
 
 ### 14. Compare and contrast OSI and TCP/IP
 
 >updating
 
-<a name="compare and contrast TCP and UDP protocols"></a>
+<a name="compareandcontrastTCPandUDPprotocols"></a>
 
 ### 15. Compare and contrast TCP and UDP protocols
 
 >updating
 
-<a name="what is DNS , Telnet, DHCP, HTTP, FTP ?"></a>
+<a name="whatisDNS,Telnet,DHCP,HTTP,FTP?"></a>
 
 ### 16. What is DNS , Telnet, DHCP, HTTP, FTP ?
 
 >updating
 
-<a name="what is IPv4 ? Describe IPv4 Address Classes"></a>
+<a name="whatisIPv4?DescribeIPv4AddressClasses"></a>
 
 ### 17. What is IPv4 ? Describe IPv4 Address Classes
 
 >updating
 
-<a name="network architecture : definition, compare peer to peer and client to server"></a>
+<a name="networkarchitecture:definition,comparepeertopeerandclienttoserver"></a>
 
 ### 18. Network architecture : definition, compare peer to peer and client to server
 
 >updating
 
-<a name="compare and contrast IPv4 address types: Unicast Broadcast Multicast"></a>
+<a name="compareandcontrastIPv4addresstypes:UnicastBroadcastMulticast"></a>
 
 ### 19. Compare and contrast IPv4 address types: Unicast Broadcast Multicast
 
 >updating
 
-<a name="describe the need for private IPv4 addressing. Compare Public Network and Private Network"></a>
+<a name="describetheneedforprivateIPv4addressing.ComparePublicNetworkandPrivateNetwork"></a>
 
 ### 20. Describe the need for private IPv4 addressing. Compare Public Network and Private Network
 
 >updating
 
-<a name="what happens when you type in a url in the brower?"></a>
+<a name="whathappenswhenyoutypeinaurlinthebrower?"></a>
 
 ### 21. What happens when you type in a url in the brower?
 
