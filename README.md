@@ -24,11 +24,11 @@
 
 ### [11. Internet definition](#internetdefinition)
 
-### [12. Indentify the layers of the OSI Model](#indentifythelayersoftheOSI model)
+### [12. Indentify the layers of the OSI Model](#indentifythelayersoftheOSImodel)
 
-### [13. Indentify the layers and Deep dive TCP/IP Stack](#indentifythelayersanddeepdiveTCP/IP stack)
+### [13. Indentify the layers and Deep dive TCP/IP Stack](#indentifythelayersanddeepdiveTCP/IPstack)
 
-### [14. Compare and contrast OSI and TCP/IP](#compareand ontrastOSIandTCP/IP)
+### [14. Compare and contrast OSI and TCP/IP](#compareandontrastOSIandTCP/IP)
 
 ### [15. Compare and contrast TCP and UDP protocols](#compareandcontrastTCPandUDPprotocols)
 
@@ -36,11 +36,11 @@
 
 ### [17. What is IPv4 ? Describe IPv4 Address Classes](#whatisIPv4?DescribeIPv4AddressClasses)
 
-### [18. Network Architecture: definition, compare peer to peer and client to server](#networkarchitecture:definition,comparepeertopeerandclienttoserver)
+### [18. Network Architecture: definition, compare peer to peer and client to server](#networkarchitecturedefinition,comparepeertopeerandclienttoserver)
 
-###[19. Compare and contrast IPv4 address types: Unicast Broadcast Multicast](#compareandcontrastIPv4addresstypes:UnicastBroadcastMulticast)
+### [19. Compare and contrast IPv4 address types: Unicast Broadcast Multicast](#compareandcontrastIPv4addresstypesUnicastBroadcastMulticast)
 
-###[20. Describe the need for private IPv4 addressing. Compare Public Network and Private Network](#describetheneedforprivateIPv4addressing.ComparePublicNetworkandPrivateNetwork)
+### [20. Describe the need for private IPv4 addressing. Compare Public Network and Private Network](#describetheneedforprivateIPv4addressing.ComparePublicNetworkandPrivateNetwork)
 
 ### [21. What happens when you type in a url in the brower?](#whathappenswhenyoutypeinaurlinthebrower?)
 
@@ -169,19 +169,19 @@ Các cấu trúc liên kết mạng vật lý và logic của một mạng khôn
 
 >updating
 
-<a name="indentifythelayersoftheOSI model"></a>
+<a name="indentifythelayersoftheOSImodel"></a>
 
 ### 12. Indentify the layers of the OSI model
 
 >updating
 
-<a name="indentifythelayersanddeepdiveTCP/IP stack"></a>
+<a name="indentifythelayersanddeepdiveTCP/IPstack"></a>
 
 ### 13. Indentify the layers and deep dive TCP/IP stack
 
 >updating
 
-<a name="compareand ontrastOSIandTCP/IP"></a>
+<a name="compareandontrastOSIandTCP/IP"></a>
 
 ### 14. Compare and contrast OSI and TCP/IP
 
@@ -205,13 +205,13 @@ Các cấu trúc liên kết mạng vật lý và logic của một mạng khôn
 
 >updating
 
-<a name="networkarchitecture:definition,comparepeertopeerandclienttoserver"></a>
+<a name="networkarchitecturedefinition,comparepeertopeerandclienttoserver"></a>
 
 ### 18. Network architecture : definition, compare peer to peer and client to server
 
 >updating
 
-<a name="compareandcontrastIPv4addresstypes:UnicastBroadcastMulticast"></a>
+<a name="compareandcontrastIPv4addresstypesUnicastBroadcastMulticast"></a>
 
 ### 19. Compare and contrast IPv4 address types: Unicast Broadcast Multicast
 
